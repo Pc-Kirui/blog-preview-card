@@ -31,8 +31,8 @@ Above is a screenshot of my solution as seen from my Pc.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Pc-Kirui/blog-preview-card)
+- Live Site URL: [Live Preview](https://pc-kirui.github.io/blog-preview-card/)
 
 ## My process
 
